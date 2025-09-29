@@ -14,7 +14,7 @@ This project can serve as a strong **portfolio piece** for showcasing Excel, dat
 
 ---
 
-## 🗂 Dataset  
+## Dataset  
 The dataset includes the following features:  
 - **ID** (unique identifier)  
 - **Marital Status** (Married/Single)  
@@ -32,7 +32,7 @@ The dataset includes the following features:
 
 ---
 
-## 🔧 Steps in the Project  
+## Steps in the Project  
 
 ### 1. Data Cleaning  
 - Removed duplicate rows.  
@@ -64,7 +64,7 @@ The final dashboard allows users to **filter and explore** data by demographics 
 
 ---
 
-## 🚀 Key Learnings  
+## Key Learnings  
 - Importance of **data cleaning** for reliable insights.  
 - How **pivot tables** power dashboards in Excel.  
 - Best practices in **dashboard design** (clear visuals, consistent formatting, interactivity).  
@@ -72,16 +72,14 @@ The final dashboard allows users to **filter and explore** data by demographics 
 
 ---
 
-## 💡 How to Use  
+## How to Use  
 1. Download the Excel file from this repository.  
 2. Open it in Excel (preferably latest version).  
 3. Use the slicers to filter data and interact with the dashboard.  
 
 ---
 
----
-
-## ✨ Future Improvements  
+## Future Improvements  
 - Add additional KPIs (e.g., Cars Owned vs. Purchase, Region-based trends).  
 - Integrate with **Power BI** or **Tableau** for advanced visuals.  
 - Automate cleaning process using **Power Query** or **Python (Pandas)**.  
